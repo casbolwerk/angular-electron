@@ -1,5 +1,10 @@
 {
   "PAGES": {
+      "MAIN": {
+          "COMPANY": "Spectro-AG",
+          "TITLE": "3D NDVI Calculator",
+          "BROWSE_FILES": "Browse"
+      },
       "HOME": {
           "TITLE": "App works !",
           "GO_TO_DETAIL": "Go to Detail"
